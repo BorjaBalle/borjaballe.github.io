@@ -1,0 +1,139 @@
+<!doctype html>
+<html class="no-js" lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Tutorial on Spectral Techniques @ EMNLP 2014</title>
+        <link rel="stylesheet" href="css/foundation.css" />
+        <link rel="stylesheet" href="css/custom.css" />
+        <script src="js/vendor/modernizr.js"></script>
+    </head>
+    <body>
+
+        <div class="maintitle">
+            <div class="row">
+                <div class="large-12 columns">
+                    <hgroup>
+                        <h1 style="color: white;">Spectral Learning Techniques for Weighted Automata, Transducers, and Grammars</h1>
+                        <h2 style="color: DarkRed;">Tutorial @ EMNLP 2014 (Qatar)</h2>
+                        <h4 style="color: grey;">presented by</h4>
+                        <h3 style="color: white;">Borja Balle, Ariadna Quattoni, and Xavier Carreras</h3>
+                    </hgroup>
+                </div>
+            </div>
+        </div>
+
+        <div class="row sectitle">
+            <div class="large-12 columns">
+                <span class="sectitlefont">News</span>
+            </div>
+        </div>
+
+        <div class="row seccontent">
+            <div class="large-8 columns">
+                <ul class="circle">
+                    <li>Videos of the tutorial are available on-line: <a href="https://www.youtube.com/watch?v=Ukj4TmKpcaw">part 1</a> and <a href="https://www.youtube.com/watch?v=-xdsO8w5Kcg">part 2</a>.</li>
+                    <li>Sample code in Matlab is available <a href="http://www.cs.upc.edu/~bballe/emnlp14-tutorial/demo-tutorial-emnlp14.zip">here</a>.</li>
+                    <li>Slides are available <a href="http://www.cs.upc.edu/~bballe/slides/tutorial-emnlp14.pdf">here</a>.</li>
+                </ul>
+            </div>
+        </div>     
+
+        <div class="row sectitle">
+            <div class="large-12 columns">
+                <span class="sectitlefont">Overview</span>
+            </div>
+        </div>
+
+        <div class="row seccontent">
+            <div class="large-8 columns">
+                <p>In recent years we have seen the development of efficient and provably
+                    correct algorithms for learning weighted automata and closely related
+                    function classes such as weighted transducers and weighted
+                    context-free grammars. The common denominator of all these algorithms
+                    is the so-called spectral method, which gives an efficient and robust
+                    way to estimate recursively defined functions from empirical
+                    estimations of observable statistics.  These algorithms are appealing
+                    because of the of existence of theoretical guarantees (e.g. they are
+                    not susceptible to local minima) and because of their efficiency.
+                    However, despite their simplicity and wide applicability to real
+                    problems, their impact in NLP applications is still moderate.  One of
+                    the goals of this tutorial is to remedy this situation.</p>
+
+                <p>The contents that will be presented in this tutorial will offer a
+                    complementary perspective with respect to previous tutorials on
+                    spectral methods presented at <a href="http://www.cs.cmu.edu/~ggordon/spectral-learning/">ICML-2012</a>, <a href="http://www.cs.columbia.edu/~djhsu/tensor-tutorial/">ICML-2013</a>, and
+                    <a href="http://www.cs.columbia.edu/~scohen/naacl13tutorial/">NAACL-2013</a>. Rather than using the language of graphical models and
+                    signal processing, we tell the story from the perspective of formal
+                    languages and automata theory (without assuming a background in formal
+                    algebraic methods). Our presentation highlights the common intuitions
+                    lying behind different spectral algorithms by presenting them in a
+                    unified framework based on the concepts of low-rank factorizations and
+                    completions of Hankel matrices. In addition, we provide an
+                    interpretation of the method in terms of forward and backward
+                    recursions for automata and grammars. This provides extra intuitions
+                    about the method and stresses the importance of matrix factorization
+                    for learning automata and grammars. We believe that this complementary
+                    perspective might be appealing for an NLP audience and serve to put
+                    spectral learning in a wider and, perhaps for some, more familiar
+                    context. Our hope is that this will broaden the understanding of these
+                    methods by the NLP community and empower many researchers to apply
+                    these techniques to novel problems.</p>
+            </div>
+        </div>
+
+        <div class="row sectitle">
+            <div class="large-12 columns">
+                <span class="sectitlefont">Presenters Bio</span>
+            </div>
+        </div>
+
+        <div class="row seccontent">
+            <div class="large-8 columns">
+                <p><a href="http://www.lsi.upc.edu/~bballe/">Borja Balle</a> is currently a postdoctoral fellow at McGill University,
+                    and prior to that he obtained his PhD from Universitat Politecnica de
+                    Catalunya (UPC) in July 2013. His research interests lie on the
+                    intersection between automata theory and machine learning, in
+                    particular on applications of spectral learning techniques to natural
+                    language processing, grammatical inference, and reinforcement
+                    learning. He was area chair for NIPS 2014, program committee member for
+                    ICGI 2014, and has recently organized workshops (at ICML 2013,
+                    NIPS 2013, and ICML 2014) on methods of moments and spectral learning.</p>
+
+                <p><a href="http://www.lsi.upc.edu/~aquattoni/">Ariadna Quattoni</a> is currently a researcher at Xerox
+                    Research Centre Europe (XRCE), prior to that she was a researcher at
+                    the Universitat Politecnica de Catalunya (UPC). She obtained her
+                    PhD from MIT in 2009. Her main research focuses on latent variable
+                    models for structured prediction with applications to natural language
+                    processing and computer vision. On the last years her work has
+                    centered on spectral learning techninques for structured prediction
+                    problems with applications to sequence tagging, learning general
+                    transductions and parsing.</p>
+
+                <p><a href="http://www.lsi.upc.edu/~carreras/">Xavier Carreras</a> research is in natural language processing and machine
+                    learning. He is interested in grammatical induction and parsing
+                    methods for syntactic-semantic analysis and translation of natural
+                    languages. In 2005 he completed his PhD at the Universitat
+                    Politecnica de Catalunya (UPC). From 2006 to 2009 he was a
+                    postdoctoral researcher at MIT/CSAIL. From 2009 to 2014 he was a
+                    researcher at UPC and since June 2014 he is senior researcher at Xerox
+                    Research Centre Europe.</p>
+            </div>
+        </div>
+        
+        <div class="foot">
+            <div class="row">
+                <div class="large-8 columns">
+                    <span style="color: white; font-size: x-small;">Last Update: Oct 20, 2014</span>
+                </div>
+            </div>
+        </div>
+
+
+
+        <script src="js/foundation.min.js"></script>
+        <script>
+            $(document).foundation();
+        </script>
+    </body>
+</html>
