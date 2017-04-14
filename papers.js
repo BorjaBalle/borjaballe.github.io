@@ -3,7 +3,7 @@ var papers = [
 	authors : "B. Balle, P. Gourdeau, and P. Panangaden",
 	title : "Bisimulation Metrics for Weighted Automata",
 	pdfurl : "https://arxiv.org/pdf/1702.08017",
-	where: "ArXiv Preprint, 2017",
+	where: "International Colloquium on Automata, Languages, and Programming (ICALP), 2017",
 	links: [
 	{ name: "arXiv", url: "https://arxiv.org/abs/1702.08017" }
 	]
@@ -247,4 +247,3 @@ var papers = [
 	where: "IEEE Transactions on Instrumentation and Measurement, Vol.  57, No. 5, 2008"
 }
 ];
-
