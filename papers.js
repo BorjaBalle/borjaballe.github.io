@@ -1,5 +1,11 @@
 var papers = [
-{
+	{
+		authors : "B. Balle and O.-A. Maillard",
+		title : "Spectral Learning from a Single Trajectory under Finite-State Policies",
+		pdfurl : "#",
+		where: "International Conference on Machine Learning (ICML), 2017",
+	},
+	{
 	authors : "B. Balle, P. Gourdeau, and P. Panangaden",
 	title : "Bisimulation Metrics for Weighted Automata",
 	pdfurl : "https://arxiv.org/pdf/1702.08017",
