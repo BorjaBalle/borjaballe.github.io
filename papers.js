@@ -1,9 +1,9 @@
 var papers = [
 	{
-		authors : "B. Balle and O.-A. Maillard",
-		title : "Spectral Learning from a Single Trajectory under Finite-State Policies",
-		pdfurl : "#",
-		where: "International Conference on Machine Learning (ICML), 2017",
+	authors : "B. Balle and O.-A. Maillard",
+	title : "Spectral Learning from a Single Trajectory under Finite-State Policies",
+	pdfurl : "#",
+	where: "International Conference on Machine Learning (ICML), 2017",
 	},
 	{
 	authors : "B. Balle, P. Gourdeau, and P. Panangaden",
@@ -18,7 +18,7 @@ var papers = [
 	authors : "A. Gascon, P. Schoppmann, B. Balle, M. Raykova, J. Doerner, S. Zahur, and D. Evans",
 	title : "Privacy-Preserving Distributed Linear Regression on High-Dimensional Data",
 	pdfurl : "http://eprint.iacr.org/2016/892.pdf",
-	where: "Cryptology ePrint Archive, 2016",
+	where: "Proceedings on Privacy Enhancing Technologies (PoPETS), 2017",
 	links: [
 	{ name: "eprint", url: "http://eprint.iacr.org/2016/892" }
 	]
