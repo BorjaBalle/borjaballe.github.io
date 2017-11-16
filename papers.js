@@ -1,4 +1,10 @@
 var papers = [
+  {
+      authors: "Y. Grinberg, H. Aboutalebi, M. Lyman-Abramovitch, B. Balle, and D. Precup",
+      title: "Learning Predictive State Representations from Non-uniform Sampling",
+      pdfurl: "#",
+      where: "AAAI Conference on Artificial Intelligence (AAAI), 2018",
+},
     {
         authors: "M. Ruffini, G. Rabusseau, and B. Balle",
         title: "Hierarchical Methods of Moments",
