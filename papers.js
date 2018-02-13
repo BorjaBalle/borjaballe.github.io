@@ -93,11 +93,15 @@ var papers = [
     authors: "B. Balle and M. Mohri",
     title: "Generalization Bounds for Learning Weighted Automata",
     pdfurl: "https://arxiv.org/pdf/1610.07883v1",
-    where: "Accepted to Theoretical Computer Science, 2017",
+    where: "Theoretical Computer Science, 2017",
     links: [
       {
         name: "arXiv",
         url: "https://arxiv.org/abs/1610.07883"
+      },
+      {
+        name: "doi",
+        url: "https://doi.org/10.1016/j.tcs.2017.11.023"
       }
     ]
   },
