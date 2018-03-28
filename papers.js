@@ -1,5 +1,17 @@
 var papers = [
   {
+    authors: "P. Schoppmann, A. Gascon, and B. Balle",
+    title: "Private Nearest Neighbors Classification in Federated Databases",
+    pdfurl: "https://eprint.iacr.org/2018/289.pdf",
+    where: "Cryptology ePrint Archive, 2018",
+    links: [
+      {
+        name: "ePrint",
+        url: "https://eprint.iacr.org/2018/289"
+      }
+    ]
+  },
+  {
     authors: "B. Balle, P. Panangaden, and D. Precup",
     title: "Singular Value Automata and Approximate Minimization",
     pdfurl: "https://arxiv.org/pdf/1711.05994",
