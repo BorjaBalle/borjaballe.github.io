@@ -1,5 +1,17 @@
 var papers = [
   {
+    authors: "B. Balle and Y.-X. Wang",
+    title: "Improving the Gaussian Mechanism for Differential Privacy: Analytical Calibration and Optimal Denoising",
+    pdfurl: "https://arxiv.org/pdf/1805.06530",
+    where: "International Conference on Machine Learning (ICML), 2018",
+    links: [
+      {
+        name: "arXiv",
+        url: "https://arxiv.org/abs/1805.06530"
+      }
+    ]
+  },
+  {
     authors: "P. Schoppmann, A. Gascon, and B. Balle",
     title: "Private Nearest Neighbors Classification in Federated Databases",
     pdfurl: "https://eprint.iacr.org/2018/289.pdf",
