@@ -8,6 +8,10 @@ var papers = [
       {
         name: "arXiv",
         url: "https://arxiv.org/abs/1805.06530"
+      },
+      {
+        name: "code",
+        url: "https://github.com/BorjaBalle/analytic-gaussian-mechanism"
       }
     ]
   },
