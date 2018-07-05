@@ -1,5 +1,17 @@
 var papers = [
   {
+    authors: "B. Balle, G. Barthe, and M. Gaboardi",
+    title: "Privacy Amplification by Subsampling: Tight Analyses via Couplings and Divergences",
+    pdfurl: "https://arxiv.org/pdf/1807.01647",
+    where: "ArXiv Preprint, 2018",
+    links: [
+      {
+        name: "arXiv",
+        url: "https://arxiv.org/abs/1807.01647"
+      }
+    ]
+  },
+  {
     authors: "B. Balle and Y.-X. Wang",
     title: "Improving the Gaussian Mechanism for Differential Privacy: Analytical Calibration and Optimal Denoising",
     pdfurl: "https://arxiv.org/pdf/1805.06530",
