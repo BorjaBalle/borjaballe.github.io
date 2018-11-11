@@ -40,7 +40,7 @@ var papers = [
     ]
   },
   {
-    authors: "P. Schoppmann, A. Gascon, and B. Balle",
+    authors: "P. Schoppmann, L. Vogelsang, A. Gascon, and B. Balle",
     title: "Private Nearest Neighbors Classification in Federated Databases",
     pdfurl: "https://eprint.iacr.org/2018/289.pdf",
     where: "Cryptology ePrint Archive, 2018",
