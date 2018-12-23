@@ -3,13 +3,14 @@ var papers = [
     authors: "Y.-X. Wang, B. Balle, and S. Kasiviswanathan",
     title: "Subsampled Rényi Differential Privacy and Analytical Moments Accountant",
     pdfurl: "https://arxiv.org/pdf/1808.00087",
-    where: "ArXiv Preprint, 2018",
+    where: "Artificial Intelligence and Statistics Conference (AISTATS), 2019",
     links: [
       {
         name: "arXiv",
         url: "https://arxiv.org/abs/1808.00087"
       }
-    ]
+    ],
+    extra: "<br /><i style='font-size: 0.9em;'>(<b>Oral Presentation</b>)</i>"
   },
   {
     authors: "B. Balle, G. Barthe, and M. Gaboardi",
