@@ -1,5 +1,17 @@
 var papers = [
   {
+    authors: "B. Balle, J. Bell, A. Gascon, and K. Nissim",
+    title: "The Privacy Blanket of the Shuffle Model",
+    pdfurl: "https://arxiv.org/pdf/1903.02837",
+    where: "ArXiv Preprint, 2019",
+    links: [
+      {
+        name: "arXiv",
+        url: "https://arxiv.org/abs/1903.02837"
+      }
+    ]
+  },
+  {
     authors: "Y.-X. Wang, B. Balle, and S. Kasiviswanathan",
     title: "Subsampled Rényi Differential Privacy and Analytical Moments Accountant",
     pdfurl: "https://arxiv.org/pdf/1808.00087",
