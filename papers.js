@@ -22,7 +22,7 @@ var papers = [
         url: "https://arxiv.org/abs/1808.00087"
       }
     ],
-    extra: "<br /><i style='font-size: 0.9em;'>(<b>Oral Presentation</b>)</i>"
+    extra: "<br /><i style='font-size: 0.9em;'>(<b>Notable Paper Award; Oral Presentation</b>)</i>"
   },
   {
     authors: "B. Balle, G. Barthe, and M. Gaboardi",
