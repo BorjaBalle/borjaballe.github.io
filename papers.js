@@ -3,7 +3,7 @@ var papers = [
     authors: "B. Balle, J. Bell, A. Gascon, and K. Nissim",
     title: "The Privacy Blanket of the Shuffle Model",
     pdfurl: "https://arxiv.org/pdf/1903.02837",
-    where: "ArXiv Preprint, 2019",
+    where: "International Cryptology Conference (CRYPTO), 2019",
     links: [
       {
         name: "arXiv",
