@@ -25,6 +25,22 @@ var papers = [
     extra: "<br /><i style='font-size: 0.9em;'>(<b>Notable Paper Award; Oral Presentation</b>)</i>"
   },
   {
+    authors: "B. Balle, P. Panangaden, and D. Precup",
+    title: "Singular Value Automata and Approximate Minimization",
+    pdfurl: "https://arxiv.org/pdf/1711.05994",
+    where: "Mathematical Structures in Computer Science, 2019",
+    links: [
+      {
+        name: "doi",
+        url: "https://doi.org/10.1017/S0960129519000094"
+      },
+      {
+        name: "arXiv",
+        url: "https://arxiv.org/abs/1711.05994"
+      }
+    ]
+  },
+  {
     authors: "B. Balle, G. Barthe, and M. Gaboardi",
     title: "Privacy Amplification by Subsampling: Tight Analyses via Couplings and Divergences",
     pdfurl: "https://arxiv.org/pdf/1807.01647",
@@ -61,18 +77,6 @@ var papers = [
       {
         name: "ePrint",
         url: "https://eprint.iacr.org/2018/289"
-      }
-    ]
-  },
-  {
-    authors: "B. Balle, P. Panangaden, and D. Precup",
-    title: "Singular Value Automata and Approximate Minimization",
-    pdfurl: "https://arxiv.org/pdf/1711.05994",
-    where: "ArXiv Preprint, 2017",
-    links: [
-      {
-        name: "arXiv",
-        url: "https://arxiv.org/abs/1711.05994"
       }
     ]
   },
