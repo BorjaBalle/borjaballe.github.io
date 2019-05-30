@@ -1,5 +1,41 @@
 var papers = [
   {
+    authors: "B. Balle, G. Barthe, M. Gaboardi, and J. Geumlek",
+    title: "Privacy Amplification by Mixing and Diffusion Mechanisms",
+    pdfurl: "https://arxiv.org/pdf/1905.12264",
+    where: "ArXiv Preprint, 2019",
+    links: [
+      {
+        name: "arXiv",
+        url: "https://arxiv.org/abs/1905.12264"
+      }
+    ]
+  },
+  {
+    authors: "B. Avent, J. Gonzalez, T. Diethe, A. Paleyes, and B. Balle",
+    title: "Automatic Discovery of Privacy-Utility Pareto Fronts",
+    pdfurl: "https://arxiv.org/pdf/1905.10862",
+    where: "ArXiv Preprint, 2019",
+    links: [
+      {
+        name: "arXiv",
+        url: "https://arxiv.org/abs/1905.10862"
+      }
+    ]
+  },
+  {
+    authors: "A.-H. Karimi, G. Barthe, B. Balle, and I. Valera",
+    title: "Model-Agnostic Counterfactual Explanations for Consequential Decisions",
+    pdfurl: "https://arxiv.org/pdf/1905.11190",
+    where: "ArXiv Preprint, 2019",
+    links: [
+      {
+        name: "arXiv",
+        url: "https://arxiv.org/abs/1905.11190"
+      }
+    ]
+  },
+  {
     authors: "B. Balle, J. Bell, A. Gascon, and K. Nissim",
     title: "The Privacy Blanket of the Shuffle Model",
     pdfurl: "https://arxiv.org/pdf/1903.02837",
