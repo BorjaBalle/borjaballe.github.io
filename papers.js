@@ -44,6 +44,10 @@ var papers = [
       {
         name: "arXiv",
         url: "https://arxiv.org/abs/1903.02837"
+      },
+      {
+        name: "code",
+        url: "https://github.com/BorjaBalle/amplification-by-shuffling"
       }
     ]
   },
