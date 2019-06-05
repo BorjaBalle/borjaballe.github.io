@@ -451,13 +451,13 @@ var papers = [
     pdfurl: "papers/alt12.pdf",
     where: "Algorithmic Learning Theory (ALT), 2010"
   },
-  {
+  /*{
     authors: "B. Balle",
     title: "Implementing Kearns-Vazirani Algorithm for Learning DFA Only with Membership Queries",
     pdfurl: "papers/zulu10.pdf",
     where: "Zulu Workshop, 2010",
     extra: "<br /> <i style='font-size: 0.9em;'>(The algorithm described in this paper finished in <b>2nd place</b> in the <a href='http://labh-curien.univ-st-etienne.fr/zulu/'>Zulu Competition</a>)</i>"
-  },
+  },*/
   {
     authors: "B. Balle, J. Castro, and R. Gavaldà",
     title: "Learning PDFA with Asynchronous Transitions",
