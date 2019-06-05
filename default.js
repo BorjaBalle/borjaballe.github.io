@@ -12,14 +12,14 @@ function menu_init () {
 	section_names.push("papers");
 	section_names.push("talks");
 	section_names.push("service");
-	section_names.push("links");
+	//section_names.push("links");
 	var section_titles = new Array();
 	section_titles.push("home");
 	section_titles.push("research");
 	section_titles.push("papers");
 	section_titles.push("talks");
 	section_titles.push("service");
-	section_titles.push("links");
+	//section_titles.push("links");
 	// Print menus
 	for (var i = 0; i < section_names.length; i++) print_menu(i,section_names,section_titles);
 }
