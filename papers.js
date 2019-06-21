@@ -12,6 +12,18 @@ var papers = [
     ]
   },
   {
+    authors: "B. Balle, G. Barthe, M. Gaboardi, J. Hsu, and T. Sato",
+    title: "Hypothesis Testing Interpretations and Renyi Differential Privacy",
+    pdfurl: "https://arxiv.org/pdf/1905.09982",
+    where: "ArXiv Preprint, 2019",
+    links: [
+      {
+        name: "arXiv",
+        url: "https://arxiv.org/abs/1905.09982"
+      }
+    ]
+  },
+  {
     authors: "B. Avent, J. Gonzalez, T. Diethe, A. Paleyes, and B. Balle",
     title: "Automatic Discovery of Privacy-Utility Pareto Fronts",
     pdfurl: "https://arxiv.org/pdf/1905.10862",
