@@ -1,5 +1,17 @@
 var papers = [
   {
+    authors: "B. Balle, J. Bell, A. Gascon, and K. Nissim",
+    title: "Differentially Private Summation with Multi-Message Shuffling",
+    pdfurl: "https://arxiv.org/pdf/1906.09116",
+    where: "ArXiv Preprint (short note), 2019",
+    links: [
+      {
+        name: "arXiv",
+        url: "https://arxiv.org/abs/1906.09116"
+      }
+    ]
+  },
+  {
     authors: "B. Balle, G. Barthe, M. Gaboardi, and J. Geumlek",
     title: "Privacy Amplification by Mixing and Diffusion Mechanisms",
     pdfurl: "https://arxiv.org/pdf/1905.12264",
