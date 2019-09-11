@@ -292,7 +292,7 @@ var papers = [
   {
     authors: "B. Balle and M. Mohri",
     title: "Learning Weighted Automata",
-    pdfurl: "#",
+    pdfurl: "papers/cai15.pdf",
     where: "Conference on Algebraic Informatics (CAI), 2015",
     extra: "<br /><i style='font-size: 0.9em;'>(<b>Invited Paper</b>)</i>"
   },
