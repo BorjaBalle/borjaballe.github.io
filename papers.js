@@ -1,6 +1,18 @@
 var papers = [
   {
     authors: "B. Balle, J. Bell, A. Gascon, and K. Nissim",
+    title: "Improved Summation from Shuffling",
+    pdfurl: "",
+    where: "ArXiv Preprint (short note), 2019",
+    links: [
+      {
+        name: "arXiv",
+        url: ""
+      }
+    ]
+  },
+  {
+    authors: "B. Balle, J. Bell, A. Gascon, and K. Nissim",
     title: "Differentially Private Summation with Multi-Message Shuffling",
     pdfurl: "https://arxiv.org/pdf/1906.09116",
     where: "ArXiv Preprint (short note), 2019",
@@ -8,18 +20,6 @@ var papers = [
       {
         name: "arXiv",
         url: "https://arxiv.org/abs/1906.09116"
-      }
-    ]
-  },
-  {
-    authors: "B. Balle, G. Barthe, M. Gaboardi, and J. Geumlek",
-    title: "Privacy Amplification by Mixing and Diffusion Mechanisms",
-    pdfurl: "https://arxiv.org/pdf/1905.12264",
-    where: "ArXiv Preprint, 2019",
-    links: [
-      {
-        name: "arXiv",
-        url: "https://arxiv.org/abs/1905.12264"
       }
     ]
   },
@@ -56,6 +56,30 @@ var papers = [
       {
         name: "arXiv",
         url: "https://arxiv.org/abs/1905.11190"
+      }
+    ]
+  },
+  {
+    authors: "O. Feyisetan, B. Balle, T. Drake, and T. Diethe",
+    title: "Privacy- and Utility-Preserving Textual Analysis via Calibrated Multivariate Perturbations",
+    pdfurl: "https://arxiv.org/pdf/1910.08902",
+    where: "International Conference on Web Search and Data Mining (WSDM), 2020",
+    links: [
+      {
+        name: "arXiv",
+        url: "https://arxiv.org/abs/1910.08902"
+      }
+    ]
+  },
+  {
+    authors: "B. Balle, G. Barthe, M. Gaboardi, and J. Geumlek",
+    title: "Privacy Amplification by Mixing and Diffusion Mechanisms",
+    pdfurl: "https://arxiv.org/pdf/1905.12264",
+    where: "Neural Information Processing Systems (NeurIPS), 2019",
+    links: [
+      {
+        name: "arXiv",
+        url: "https://arxiv.org/abs/1905.12264"
       }
     ]
   },
