@@ -2,12 +2,12 @@ var papers = [
   {
     authors: "B. Balle, J. Bell, A. Gascon, and K. Nissim",
     title: "Improved Summation from Shuffling",
-    pdfurl: "",
+    pdfurl: "https://arxiv.org/pdf/1909.11225",
     where: "ArXiv Preprint (short note), 2019",
     links: [
       {
         name: "arXiv",
-        url: ""
+        url: "https://arxiv.org/abs/1909.11225"
       }
     ]
   },
