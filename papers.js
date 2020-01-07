@@ -24,18 +24,6 @@ var papers = [
     ]
   },
   {
-    authors: "B. Balle, G. Barthe, M. Gaboardi, J. Hsu, and T. Sato",
-    title: "Hypothesis Testing Interpretations and Renyi Differential Privacy",
-    pdfurl: "https://arxiv.org/pdf/1905.09982",
-    where: "ArXiv Preprint, 2019",
-    links: [
-      {
-        name: "arXiv",
-        url: "https://arxiv.org/abs/1905.09982"
-      }
-    ]
-  },
-  {
     authors: "B. Avent, J. Gonzalez, T. Diethe, A. Paleyes, and B. Balle",
     title: "Automatic Discovery of Privacy-Utility Pareto Fronts",
     pdfurl: "https://arxiv.org/pdf/1905.10862",
@@ -51,11 +39,41 @@ var papers = [
     authors: "A.-H. Karimi, G. Barthe, B. Balle, and I. Valera",
     title: "Model-Agnostic Counterfactual Explanations for Consequential Decisions",
     pdfurl: "https://arxiv.org/pdf/1905.11190",
-    where: "ArXiv Preprint, 2019",
+    where: "Artificial Intelligence and Statistics Conference (AISTATS), 2020",
     links: [
       {
         name: "arXiv",
         url: "https://arxiv.org/abs/1905.11190"
+      }
+    ]
+  },
+  {
+    authors: "B. Balle, G. Barthe, M. Gaboardi, J. Hsu, and T. Sato",
+    title: "Hypothesis Testing Interpretations and Renyi Differential Privacy",
+    pdfurl: "https://arxiv.org/pdf/1905.09982",
+    where: "Artificial Intelligence and Statistics Conference (AISTATS), 2020",
+    links: [
+      {
+        name: "arXiv",
+        url: "https://arxiv.org/abs/1905.09982"
+      }
+    ]
+  },
+  {
+    authors: "H. Husain, B. Balle, Z. Cranko, R. Nock",
+    title: "Local Differential Privacy for Sampling",
+    pdfurl: "#",
+    where: "Artificial Intelligence and Statistics Conference (AISTATS), 2020"
+  },
+  {
+    authors: "K. (Dj) Dvijotham, J. Hayes, B. Balle, Z. Kolter, C. Qin, A. Gyorgy, K. Xiao, S. Gowal, P. Kohli",
+    title: "A Framework for Robustness Certification of Smoothed Classifiers Using f-Divergences",
+    pdfurl: "https://openreview.net/pdf?id=SJlKrkSFPH",
+    where: "International Conference on Learning Representations (ICLR), 2020",
+    links: [
+      {
+        name: "OpenReview",
+        url: "https://openreview.net/forum?id=SJlKrkSFPH"
       }
     ]
   },
