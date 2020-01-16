@@ -36,6 +36,18 @@ var papers = [
     ]
   },
   {
+    authors: "B. Balle, G. Barthe, and M. Gaboardi",
+    title: "Privacy Profiles and Amplification by Subsampling",
+    pdfurl: "https://journalprivacyconfidentiality.org/index.php/jpc/article/view/726/696",
+    where: "Journal of Privacy and Confidentiality, Vol. 10, Num. 1, 2020",
+    links: [
+        {
+          name: "doi",
+          url: "https://doi.org/10.29012/jpc.726"
+        }
+    ]
+  },
+  {
     authors: "A.-H. Karimi, G. Barthe, B. Balle, and I. Valera",
     title: "Model-Agnostic Counterfactual Explanations for Consequential Decisions",
     pdfurl: "https://arxiv.org/pdf/1905.11190",
