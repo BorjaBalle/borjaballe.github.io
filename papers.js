@@ -1,25 +1,13 @@
 var papers = [
   {
     authors: "B. Balle, J. Bell, A. Gascon, and K. Nissim",
-    title: "Improved Summation from Shuffling",
-    pdfurl: "https://arxiv.org/pdf/1909.11225",
-    where: "ArXiv Preprint (short note), 2019",
+    title: "Private Summation in the Multi-Message Shuffle Model",
+    pdfurl: "https://arxiv.org/pdf/2002.00817",
+    where: "ArXiv Preprint, 2019",
     links: [
       {
         name: "arXiv",
-        url: "https://arxiv.org/abs/1909.11225"
-      }
-    ]
-  },
-  {
-    authors: "B. Balle, J. Bell, A. Gascon, and K. Nissim",
-    title: "Differentially Private Summation with Multi-Message Shuffling",
-    pdfurl: "https://arxiv.org/pdf/1906.09116",
-    where: "ArXiv Preprint (short note), 2019",
-    links: [
-      {
-        name: "arXiv",
-        url: "https://arxiv.org/abs/1906.09116"
+        url: "https://arxiv.org/abs/2002.00817"
       }
     ]
   },
