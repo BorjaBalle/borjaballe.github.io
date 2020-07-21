@@ -14,12 +14,37 @@ var papers = [
   {
     authors: "B. Avent, J. Gonzalez, T. Diethe, A. Paleyes, and B. Balle",
     title: "Automatic Discovery of Privacy-Utility Pareto Fronts",
-    pdfurl: "https://arxiv.org/pdf/1905.10862",
-    where: "ArXiv Preprint, 2019",
+    pdfurl: "https://petsymposium.org/2020/files/papers/issue4/popets-2020-0058.pdf",
+    where: "Proceedings on Privacy Enhancing Technologies (PoPETS), 2020",
     links: [
       {
-        name: "arXiv",
-        url: "https://arxiv.org/abs/1905.10862"
+        name: "code",
+        url: "https://github.com/amzn/differential-privacy-bayesian-optimization"
+      }
+    ],
+	extra: "<br /><i style='font-size: 0.9em;'>(<b>Andreas Pfitzmann Best Student Paper Award</b>)</i>"
+  },
+  {
+    authors: "P. Schoppmann, L. Vogelsang, A. Gascon, and B. Balle",
+    title: "Secure and Scalable Document Similarity on Distributed Databases: Differential Privacy to the Rescue",
+    pdfurl: "https://petsymposium.org/2020/files/papers/issue2/popets-2020-0024.pdf",
+    where: "Proceedings on Privacy Enhancing Technologies (PoPETS), 2020",
+    links: [
+      {
+        name: "code",
+        url: "https://github.com/schoppmp/private-knn"
+      }
+    ]
+  },
+  {
+    authors: "Y.-X. Wang, B. Balle, and S. Kasiviswanathan",
+    title: "Subsampled Rényi Differential Privacy and Analytical Moments Accountant (Journal Version)",
+    pdfurl: "https://journalprivacyconfidentiality.org/index.php/jpc/article/view/723/702",
+    where: "Journal of Privacy and Confidentiality, Vol. 10, Num. 2, 2020",
+	links: [
+      {
+        name: "doi",
+        url: "https://doi.org/10.29012/jpc.723"
       }
     ]
   },
@@ -38,32 +63,46 @@ var papers = [
   {
     authors: "A.-H. Karimi, G. Barthe, B. Balle, and I. Valera",
     title: "Model-Agnostic Counterfactual Explanations for Consequential Decisions",
-    pdfurl: "https://arxiv.org/pdf/1905.11190",
+    pdfurl: "http://proceedings.mlr.press/v108/karimi20a/karimi20a.pdf",
     where: "Artificial Intelligence and Statistics Conference (AISTATS), 2020",
     links: [
       {
-        name: "arXiv",
-        url: "https://arxiv.org/abs/1905.11190"
-      }
+        name: "PMLR",
+        url: "http://proceedings.mlr.press/v108/karimi20a.html"
+      },
+	  {
+		name: "code",
+		url: "https://github.com/amirhk/mace"
+	  },
+	  {
+		name: "video",
+		url: "https://www.youtube.com/watch?v=g7OeXoW4OeU"
+	  }
     ]
   },
   {
     authors: "B. Balle, G. Barthe, M. Gaboardi, J. Hsu, and T. Sato",
     title: "Hypothesis Testing Interpretations and Renyi Differential Privacy",
-    pdfurl: "https://arxiv.org/pdf/1905.09982",
+    pdfurl: "http://proceedings.mlr.press/v108/balle20a/balle20a.pdf",
     where: "Artificial Intelligence and Statistics Conference (AISTATS), 2020",
     links: [
       {
-        name: "arXiv",
-        url: "https://arxiv.org/abs/1905.09982"
+        name: "PMLR",
+        url: "http://proceedings.mlr.press/v108/balle20a.html"
       }
     ]
   },
   {
     authors: "H. Husain, B. Balle, Z. Cranko, R. Nock",
     title: "Local Differential Privacy for Sampling",
-    pdfurl: "#",
-    where: "Artificial Intelligence and Statistics Conference (AISTATS), 2020"
+    pdfurl: "http://proceedings.mlr.press/v108/husain20a/husain20a.pdf",
+    where: "Artificial Intelligence and Statistics Conference (AISTATS), 2020",
+    links: [
+      {
+          name: "PMLR",
+          url: "http://proceedings.mlr.press/v108/husain20a.html"
+      }
+    ]
   },
   {
     authors: "K. (Dj) Dvijotham, J. Hayes, B. Balle, Z. Kolter, C. Qin, A. Gyorgy, K. Xiao, S. Gowal, P. Kohli",
