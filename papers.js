@@ -11,7 +11,7 @@ var papers = [{
 		authors: "B. Balle, J. Bell, A. Gascon, and K. Nissim",
 		title: "Private Summation in the Multi-Message Shuffle Model",
 		pdfurl: "https://arxiv.org/pdf/2002.00817",
-		where: "ArXiv Preprint, 2019",
+		where: "ACM Conference on Computer and Communications Security (CCS), 2020",
 		links: [{
 			name: "arXiv",
 			url: "https://arxiv.org/abs/2002.00817"
