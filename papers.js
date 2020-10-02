@@ -2,7 +2,7 @@ var papers = [{
 		authors: "B. Balle, P. Kairouz, H. B. McMahan, O. Thakkar, and A. Thakurta",
 		title: "Privacy Amplification via Random Check-Ins",
 		pdfurl: "https://arxiv.org/pdf/2007.06605",
-		where: "ArXiv Preprint, 2020",
+		where: "Neural Information Processing Systems (NeurIPS), 2020",
 		links: [{
 			name: "arXiv",
 			url: "https://arxiv.org/abs/2007.06605"
