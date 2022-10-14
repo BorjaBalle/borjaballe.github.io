@@ -1,4 +1,70 @@
 var papers = [{
+		authors: "S. De, L. Berrada, J. Hayes, S. L. Smith, and B. Balle",
+		title: "Unlocking High-Accuracy Differentially Private Image Classification through Scale",
+		pdfurl: "https://arxiv.org/pdf/2204.13650",
+		where: "ArXiv Preprint, 2022",
+		links: [{
+			name: "arXiv",
+			url: "https://arxiv.org/abs/2204.13650"
+		}, {
+			name: "code",
+			url: "https://github.com/deepmind/jax_privacy"
+		}]
+	}, {
+		authors: "B. Balle, G. Cherubin, and J. Hayes",
+		title: "Reconstructing Training Data with Informed Adversaries",
+		pdfurl: "https://arxiv.org/pdf/2201.04845",
+		where: "IEEE Symposium on Security and Privacy (S&P), 2022",
+		links: [{
+			name: "doi",
+			url: "https://ieeexplore.ieee.org/document/9833677"
+		}, {
+			name: "arXiv",
+			url: "https://arxiv.org/abs/2201.04845"
+		}, {
+			name: "code",
+			url: "https://github.com/deepmind/informed_adversary_mnist_reconstruction"
+		}]
+	}, {
+		authors: "L. Weidinger, J. Uesato, M. Rauh, C. Griffin, P.-S. Huang, J. Mellor, A. Glaese, M. Cheng, B. Balle, A. Kasirzadeh, C. Biles, S. Brown, Z. Kenton, W. Hawkins, T. Stepleton, A. Birhane, L. A. Hendricks, L. Rimell, W. S. Isaac, J. Haas, S. Legassick, G. Irving, and I. Gabriel",
+		title: "Ethical and Social Risks of Harm from Language Models",
+		pdfurl: "https://arxiv.org/pdf/2112.04359",
+		where: "ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2022",
+		links: [{
+			name: "arXiv (long version)",
+			url: "https://arxiv.org/abs/2112.04359"
+		}, {
+			name: "proceedings (short version)",
+			url: "https://dl.acm.org/doi/10.1145/3531146.3533088"
+		}]
+	}, {
+		authors: "B. Balle, P. Gourdeau, and P. Panangaden",
+		title: "Bisimulation Metrics and Norms for Real-Weighted Automata",
+		pdfurl: "#",
+		where: "Information and Computation, Vol. 282, 2022",
+		links: [{
+			name: "doi",
+			url: "https://doi.org/10.1016/j.ic.2020.104649"
+		}]
+	}, {
+		authors: "B. Balle and G. Rabusseau",
+		title: "Approximate Minimization of Weighted Tree Automata",
+		pdfurl: "#",
+		where: "Information and Computation, Vol. 282, 2022",
+		links: [{
+			name: "doi",
+			url: "https://doi.org/10.1016/j.ic.2020.104654"
+		}]
+	}, {
+		authors: "B. Balle, C. Lacroce, P. Panangaden, D. Precup, and G. Rabusseau",
+		title: "Optimal Spectral-Norm Approximate Minimization of Weighted Finite Automata",
+		pdfurl: "https://drops.dagstuhl.de/opus/volltexte/2021/14187/pdf/LIPIcs-ICALP-2021-118.pdf",
+		where: "International Colloquium on Automata, Languages, and Programming (ICALP), 2021",
+		links: [{
+			name: "proceedings",
+			url: "https://drops.dagstuhl.de/opus/volltexte/2021/14187/"
+		}]
+	}, {
 		authors: "B. Balle, P. Kairouz, H. B. McMahan, O. Thakkar, and A. Thakurta",
 		title: "Privacy Amplification via Random Check-Ins",
 		pdfurl: "https://arxiv.org/pdf/2007.06605",
