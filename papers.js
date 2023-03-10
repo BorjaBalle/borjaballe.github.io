@@ -1,4 +1,40 @@
 var papers = [{
+		authors: "S. Ghalebikesabi, L. Berrada, S. Gowal, I. Ktena, R. Stanforth, J. Hayes, S. De, S. L. Smith, O. Wiles, and B. Balle",
+		title: "Differentially Private Diffusion Models Generate Useful Synthetic Images",
+		pdfurl: "https://arxiv.org/pdf/2302.13861",
+		where: "ArXiv Preprint, 2023",
+		links: [{
+			name: "arXiv",
+			url: "https://arxiv.org/abs/2302.13861"
+		}]
+	}, {
+		authors: "M. Nasr, J. Hayes, T. Steinke, B. Balle, F. Tramèr, M. Jagielski, N. Carlini, A. Terzis",
+		title: "Tight Auditing of Differentially Private Machine Learning",
+		pdfurl: "https://arxiv.org/pdf/2302.07956",
+		where: "ArXiv Preprint, 2023",
+		links: [{
+			name: "arXiv",
+			url: "https://arxiv.org/abs/2302.07956"
+		}]
+	}, {
+		authors: "J. Hayes, S. Mahloujifar, B. Balle",
+		title: "Bounding Training Data Reconstruction in DP-SGD",
+		pdfurl: "https://arxiv.org/pdf/2302.07225",
+		where: "ArXiv Preprint, 2023",
+		links: [{
+			name: "arXiv",
+			url: "https://arxiv.org/abs/2302.07225"
+		}]
+	}, {
+		authors: "N. Carlini, J. Hayes, M. Nasr, M. Jagielski, V. Sehwag, F. Tramèr, B. Balle, D. Ippolito, E. Wallace",
+		title: "Extracting Training Data from Diffusion Models",
+		pdfurl: "https://arxiv.org/pdf/2301.13188",
+		where: "ArXiv Preprint, 2023",
+		links: [{
+			name: "arXiv",
+			url: "https://arxiv.org/abs/2301.13188"
+		}]
+	}, {
 		authors: "S. De, L. Berrada, J. Hayes, S. L. Smith, and B. Balle",
 		title: "Unlocking High-Accuracy Differentially Private Image Classification through Scale",
 		pdfurl: "https://arxiv.org/pdf/2204.13650",
